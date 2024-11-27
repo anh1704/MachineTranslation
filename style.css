@@ -1,0 +1,33 @@
+h1 {
+    color: #000000;
+    height: justify;
+    width: justify;
+    text-align: justify;
+}
+
+.stButton>button {
+    display: inline-block;
+    background: rgba(224, 230, 236, 0.75);
+    border-radius: none;
+    font-size: 15px!important;
+    text-decoration: blink;
+    color: rgb(50, 50, 53);
+    border: solid 2px rgba(32, 100, 89, 0.08);
+    border-bottom-color: rgba(207, 189, 189, 0.15);
+    line-height: 16px;
+    } 
+  
+  button:active {
+    background: #DDDDDD;
+    color: #222222;
+    border-bottom: 0;
+    margin-top: 2px;
+    }
+
+
+.stTextInput>div>div>input {
+    color: #000000;
+    height: justify;
+    width: justify;
+    text-align: justify;
+}

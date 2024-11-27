@@ -1,0 +1,34 @@
+[
+    {
+        "source": "hello",
+        "target": "xin chào"
+    },
+    {
+        "source": "good morning",
+        "target": "chào buổi sáng"
+    },
+    {
+        "source": "thank you",
+        "target": "cảm ơn"
+    },
+    {
+        "source": "how are you?",
+        "target": "bạn có khỏe không?"
+    },
+    {
+        "source": "goodbye",
+        "target": "tạm biệt"
+    },
+    {
+        "source": "I love programming",
+        "target": "tôi yêu lập trình"
+    },
+    {
+        "source": "The weather is nice today",
+        "target": "thời tiết hôm nay rất đẹp"
+    },
+    {
+        "source": "Can you help me?",
+        "target": "bạn có thể giúp tôi không?"
+    }
+]
